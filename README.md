@@ -1,6 +1,6 @@
 # About Me
 * Germany Bavaria
-* `16` years old 
+* `17` years old 
 * Student
 * Learning `C#` and `C++`
 * More about me on: [jonaas.dev](https://jonaas.dev) <sub>(Currently work in progress)</sub>
