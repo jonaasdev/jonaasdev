@@ -3,8 +3,8 @@
 * `17` years old 
 * Student
 * Learning `C#` and `C++`
-* More about me on: [jonaas.dev](https://jonaas.dev) <sub>(Currently work in progress)</sub>
-* I am also a gamer! You can see more about my gaming "carrer" on [konect.gg](https://konect.gg/jonaas) <sub>(These infos move onto my webpage once it is done!)</sub>
+* More about me on: [jonaas.dev](https://jonaas.dev) <sub>(Currently not in progress)</sub>
+* I am also a gamer! You can see more about my gaming "carrer" on [konect.gg](https://konect.gg/zen1th_cs) <sub>(These infos move onto my webpage once it is done!)</sub>
 ## Social Stuff <sub><sub>(Clickable)</sub></sub>
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/568172002645639169)[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/jonaasTM/)[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jonaasdev)
 ## Applications
