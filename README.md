@@ -1,7 +1,7 @@
 # About Me
 * Germany, Bavaria, Augsburg
-* `17` years old 
-* High school student 10th grade
+* Currently `17` years old .
+* High school student 10th grade.
 * Currently learning the `Nuxt.js` framework.
 * More about me on: [jonaas.dev](https://jonaas.dev) <sub>(Currently just a blank page 😄)</sub>
 * I am also a gamer! You can see more about my gaming "carrer" on [konect.gg](https://konect.gg/zen1th_cs) <sub>(These infos move onto my webpage once it is done!)</sub>
