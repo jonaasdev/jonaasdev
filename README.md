@@ -1,6 +1,6 @@
 # About Me
 * Germany, Bavaria, Augsburg
-* Currently `17` years old .
+* Currently `17` years old.
 * High school student 10th grade.
 * Currently learning the `Nuxt.js` framework.
 * More about me on: [jonaas.dev](https://jonaas.dev) <sub>(Currently just a blank page 😄)</sub>
