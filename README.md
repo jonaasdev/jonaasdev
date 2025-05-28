@@ -13,9 +13,9 @@
 ## 💬Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ## ⚙️System
-### Computer:
+### 🖥️ Computer:
 ![Windows](https://img.shields.io/badge/Windows%2011%20Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA%20GeForce%20GTX%201080-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Intel](https://img.shields.io/badge/Intel%20i7%207700K-0078F8?style=for-the-badge&logo=intel&logoColor=white)
-### Phone:
+### 📱 Phone:
 ![iOS](https://img.shields.io/badge/iOS%2018-000000?style=for-the-badge&logo=ios&logoColor=white) ![Android](https://img.shields.io/badge/Android%2014-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-### Recent:
+### 🔁 Recent:
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian%2018-D70A53?style=for-the-badge&logo=debian&logoColor=white)
