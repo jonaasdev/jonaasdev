@@ -1,9 +1,9 @@
 # Welcome to my profile!
 ### 🙋🏻‍♂️ About Me
 * Augsburg, Bayern, Germany
-* `17` years of age
+* `18` years of age
 * Apprentice at [SEWOBE AG](https://sewobe.de)
-* Currently learning PHP 8.4 & JavaScript
+* Currently learning PHP 8.5 & JavaScript
 
 ### 🌐 Social Stuff
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/568172002645639169) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=Twitch&logoColor=white)](https://twitch.tv/zen1th_cs/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/jonaasdev)
