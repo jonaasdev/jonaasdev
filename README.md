@@ -1,29 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Younes+%F0%9F%91%8B;Project+Manager;DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Younes+%F0%9F%91%8B;DevOps+Engineer;Project+Manager" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>Bridging technical execution and strategic delivery through project management excellence and DevOps expertise.</em>
+  <em>Bridging technical execution and strategic delivery through DevOps expertise and project management excellence.</em>
 </p>
-
----
-
-## Project Management
-
-<div align="center">
-
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-
-</div>
-
-**Methodologies:** Agile (Scrum, Kanban) • Waterfall • Hybrid Delivery • EVM • RAID Management • Change Control
-
-**Tools:** Jira • Confluence • MS Project • Trello • ClickUp • Miro • Lucidchart
 
 ---
 
@@ -79,6 +60,25 @@
 
 ---
 
+## Project Management
+
+<div align="center">
+
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
+</div>
+
+**Methodologies:** Agile (Scrum, Kanban) • Waterfall • Hybrid Delivery • EVM • RAID Management • Change Control
+
+**Tools:** Jira • Confluence • ServiceNow • ServiceMax • MS Project • Trello • ClickUp • Miro • Lucidchart
+
+---
+
 ## Certifications
 
 <div align="center">
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-�� **English** (Professional) • 🇩🇿 **Arabic** (Native) • �� **French** (Native) • 🇵🇱 **Polish** (Elementary)
+🇬🇧 **English** (Professional) • 🇩🇿 **Arabic** (Native) • 🇫🇷 **French** (Native) • 🇵🇱 **Polish** (Elementary)
 
 </div>
 
