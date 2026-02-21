@@ -2,11 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Younes+%F0%9F%91%8B;DevOps+Engineer;Project+Manager" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <em>Bridging technical execution and strategic delivery through DevOps expertise and project management excellence.</em>
+  <em>Bridging technical execution and strategic delivery through DevOps expertise and project management excellence. Explore my work at [younesboutelidjane.vercel.app](https://younesboutelidjane.vercel.app/).</em>
 </p>
 
----
+
 
 ## DevOps & Infrastructure
 
@@ -37,7 +36,7 @@
 
 **Containers & Orchestration:** Docker • Kubernetes
 
----
+
 
 ## Technical Stack
 
@@ -58,7 +57,6 @@
 
 **Analytics:** Python (Pandas, Matplotlib)
 
----
 
 ## Project Management
 
@@ -77,7 +75,7 @@
 
 **Tools:** Jira • Confluence • ServiceNow • ServiceMax • MS Project • Trello • ClickUp • Miro • Lucidchart
 
----
+
 
 ## Certifications
 
@@ -94,7 +92,7 @@
 
 **Genpact Internal Learning:** People Leadership (Expert) • Generative AI (Advanced)
 
----
+
 
 ## Languages
 
@@ -104,12 +102,13 @@
 
 </div>
 
----
+
 
 ## Let's Connect
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://younesboutelidjane.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-boutelidjane/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boutelidjaneyounes@gmail.com)
 
